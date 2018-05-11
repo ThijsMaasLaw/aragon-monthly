@@ -1,7 +1,7 @@
 # News / DAOs
 
 ## **Featured**
-[<h2>Title</h2>](URI_to_news) |
+[<h2>Add "Pilot Experiment of the Space Decentral Collaboration Process" to News </h2>](URI_to_news) |
 :-----------|
 [_Tag_](tag.md) |
 ![](../../images/monthly_no_image.png) |
